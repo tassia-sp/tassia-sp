@@ -1,6 +1,6 @@
 Hi! 👋 I'm Tássia.
 
-I'm a product designer at GitHub, working on supply chain security products like the advisory database, dependency graph and Dependabot 🤖.
+I'm a product designer at GitHub, working on supply chain security products like the advisory database, dependency graph and Dependabot :dependabot:.
 
 Occasional software tinkerer, dog-lover, bookworm, goof.
 
