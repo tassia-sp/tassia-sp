@@ -1,5 +1,5 @@
 Hi! 👋 I'm Tássia.
 
-I'm a product designer at GitHub, working on our code security products experiences including reporting, secret scanning, code scanning,and supply chain security products like Dependabot :dependabot:.
+I'm a product designer at GitHub, exploring how we can make code security approachable and intuitive. I work on products and features that include reporting, secret scanning, code scanning, and supply chain security products like Dependabot :dependabot:.
 
-Occasional software tinkerer, mediocre vegan, animal lover, goof.
+Occasional software tinkerer 🖥️, mediocre vegan 🐰, animal lover 🐶, matcha lover 🍵, goof 🤪.
